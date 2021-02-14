@@ -7,9 +7,9 @@ This is a python application written with Pandas in Jupyter Lab that uses the Pa
 
 ![Bar chart](/Images/bar_chart.jpg)
 
-![Line Graph](/Images/line_graph.jpg)
+![Line Graph](./Images/line_graph.jpg)
 
-![Line Graph by Neighborhood](/Images/line_graph_neighborhood.jpg)
+![Line Graph by Neighborhood](./Images/line_graph_neighborhood.jpg)
 
 ---
 
