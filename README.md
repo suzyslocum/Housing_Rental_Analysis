@@ -17,6 +17,10 @@ This is a python application written with Pandas in Jupyter Lab that uses the Pa
 
 ---
 
+![Map Plot](/Images/map_plot.jpg)
+
+---
+
 ## Technologies
 
 The application is written using Pandas
