@@ -1,7 +1,6 @@
-# challenge_6
-Module 6 challenge
+# Housing Rental Analysis for San Francisco
 
-# # Housing Rental Analysis for San Francisco
+*Module 6 challenge*
 
 This is a python application written with Pandas in Jupyter Lab that uses the Pandas to analyze housing units, sale price per square foot, and gross rent to determine if a company should invest in rental property in San Francisco, and if so, in which neighborhoods. HvPlot is used to create interactive graphs to examine the data. Plotly Express and the MapBox API are used to create an interactive geospatial visualization of the data we have processed and aould like to analyze.
 
